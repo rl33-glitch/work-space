@@ -21,3 +21,15 @@ header {
     color: #5cc97b;
     font-weight: 700;
 }
+
+.nav-links-wrapper {
+    display: flex;
+    list-style: none;
+    
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 0 12px;
+}
