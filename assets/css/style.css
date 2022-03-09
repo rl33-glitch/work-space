@@ -5,5 +5,19 @@ body {
 
 header {
     background-color: black;
+   
+}
+
+.logo {
+    font-size: 24px;
     color: white;
+}
+
+.font-700 {
+    font-weight: 700;
+}
+
+.dot {
+    color: #5cc97b;
+    font-weight: 700;
 }
