@@ -61,4 +61,29 @@ ul {
 .top-section-wrapper {
     color: white;
     display: flex;
+    justify-content: space-between;
+    
+}
+.top-section-content {
+    margin: 60px;
+    flex: 0 0 50%;
+}
+
+h1 {
+    font-size: 60px;
+    line-height: 1.2;
+}
+
+.text-italic {
+    font-style: italic;
+    font-weight: 300;
+}
+
+.paragraph-1 {
+    font-size: 18px;
+}
+
+.top-section-img {
+    display: flex;
+    align-items: center;
 }
