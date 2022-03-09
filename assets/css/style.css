@@ -87,3 +87,36 @@ h1 {
     display: flex;
     align-items: center;
 }
+/* top section ends */
+/* middle section starts */
+.middle-section-wrapper {
+    background-color: white;
+    display:flex;
+    padding: 60px;
+    margin: auto 0;
+    justify-content: space-between;
+}
+
+.middle-section-img {
+    display: flex;
+}
+
+.middle-section-content {
+    margin: auto 0 auto 80px;
+
+}
+
+h2 {
+    font-size: 48px;
+    font-weight: 300;
+    margin: 0px
+}
+
+.second-button {
+    color:#ec4d4a;
+    text-decoration: none;
+    border: 1px solid #ec4d4a;
+    padding: 8px 16px;
+    border-radius: 50px;
+
+}
