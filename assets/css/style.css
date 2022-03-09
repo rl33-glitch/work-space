@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    background-color: black;
 }
 /* navbar starts */
 header {
@@ -55,3 +56,9 @@ ul {
     padding: 0;
 }
 /* navbar ends */
+/* top section starts */
+
+.top-section-wrapper {
+    color: white;
+    display: flex;
+}
