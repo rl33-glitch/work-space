@@ -280,7 +280,27 @@ footer {
     /* navbar ends */
 
     /* middle section starts */
+    .middle-section-wrapper {
+        padding: 16px;
+    }
+    .middle-img {
+        width: 448px;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
     /* middle section ends */
+
+    /* footer section starts */
+    .footer-section-links {
+        display: block;
+    }
+
+    .footer-section-social {
+        display: block;
+    }
+    /* footer section ends */
 }
 
 
