@@ -256,5 +256,32 @@ footer {
     /*bottom section ends */
 }
 
+/* for medium screen sizes from 480px wide and down */
+@media screen and (max-width: 480px) {
+    /* navbar starts */
+    .nav-links-wrapper {
+        display: block;
+    }
+
+    header {
+        display: block;
+        justify-content: space-between;
+        padding: 16px;
+        height: 100%;
+    }
+
+    .nav-links-wrapper {
+        margin: 16px 0 24px 0;
+    }
+    
+    .nav-link {
+        padding: 0;
+    }
+    /* navbar ends */
+
+    /* middle section starts */
+    /* middle section ends */
+}
+
 
  
