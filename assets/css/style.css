@@ -166,3 +166,30 @@ th {
     margin-bottom: 60px;
 }
 /* Bottom section ends*/
+/*footer section starts*/
+
+.footer-section-links {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.copyright {
+    color:#5cc97b;
+    font-size: 14px;
+
+}
+
+.footer-section-social {
+    display: flex;
+    justify-content: space-between;
+}
+.social-icon {
+    color: white;
+    font-size: 24px;
+    padding-right: 16px;
+}
+
+footer {
+    padding: 60px 40px 40px 40px;
+}
