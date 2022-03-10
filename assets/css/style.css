@@ -125,10 +125,12 @@ h2 {
 
 .bottom-section-wrapper {
     background-color: #f6f5f5;
+    padding: 60px 0;
 }
 
 .bottom-section-table {
     display: flex;
+    justify-content: center;
 
 }
 
@@ -157,5 +159,10 @@ td {
 th {
     padding: 16px;
     font-weight: 400;
+}
+
+.bottom-section-content {
+    text-align: center;
+    margin-bottom: 60px;
 }
 /* Bottom section ends*/
