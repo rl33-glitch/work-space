@@ -237,4 +237,24 @@ footer {
     }
      /* middle section ends*/
 }
+
+/* for medium screen sizes from 800px wide and down */
+@media screen and (max-width: 800px) {
+    /*bottom section starts */
+    .bottom-section-table {
+        display: block;
+    }
+
+    .table-1 {
+        margin: 0 auto 30px auto;
+        
+    }
+    
+    .table-2 {
+        margin: 0 auto;
+    }
+    /*bottom section ends */
+}
+
+
  
