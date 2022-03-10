@@ -62,10 +62,11 @@ ul {
     color: white;
     display: flex;
     justify-content: space-between;
-    
-}
-.top-section-content {
     margin: 60px;
+    }
+
+.top-section-content {
+    
     flex: 0 0 50%;
 }
 
