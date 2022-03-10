@@ -120,3 +120,42 @@ h2 {
     border-radius: 50px;
 
 }
+/* middle section ends */
+/* Bottom section starts*/
+
+.bottom-section-wrapper {
+    background-color: #f6f5f5;
+}
+
+.bottom-section-table {
+    display: flex;
+
+}
+
+.table-1 {
+    background-color: black;
+    color: white;
+    padding: 24px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 360px;
+    margin-right: 30px;
+}
+
+.table-2 {
+    background-color: white;
+    padding: 24px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    width: 360px;
+}
+
+td {
+    padding: 16px;
+}
+
+th {
+    padding: 16px;
+    font-weight: 400;
+}
+/* Bottom section ends*/
