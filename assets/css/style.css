@@ -217,7 +217,13 @@ td {
 
 th {
     padding: 16px;
-    font-weight: 400;
+    font-weight: 500;
+    font-size: 30px;
+}
+
+tr th {
+    font-weight: 500;
+    font-size: 18px;
 }
 
 .bottom-section-content {
