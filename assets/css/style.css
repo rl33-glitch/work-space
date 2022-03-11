@@ -26,7 +26,7 @@ header {
 }
 
 .dot {
-    color: #5cc97b;
+    color: #3b6ff5;
     font-weight: 700;
 }
 
@@ -34,7 +34,6 @@ header {
     display: flex;
     list-style: none;
     margin: auto 0;
-    
 }
 
 .nav-link {
@@ -44,29 +43,31 @@ header {
 }
 
 .nav-link:hover {
-    color: #5cc97b;
+    color: #3b6ff5;
     font-weight: 500;
     text-decoration: none;
     padding: 0 12px;
 }
 
 .primary-button {
+    font-size: 16px;
     font-weight: 500;
     color: white;
     text-decoration: none;
-    background-color: #ec4d4a;
-    border: 2px solid #ec4d4a;
+    background-color: #3b6ff5;
+    border: 2px solid #3b6ff5;
     margin: auto 0;
     padding: 8px 16px;
     border-radius: 50px;
 }
 
 .primary-button:hover {
+    font-size: 16px;
     font-weight: 500;
-    color: #ec4d4a;
+    color: #3b6ff5;
     text-decoration: none;
     background-color: transparent;
-    border: 2px solid #ec4d4a;
+    border: 2px solid #3b6ff5;
     margin: auto 0;
     padding: 8px 16px;
     border-radius: 50px;
@@ -154,19 +155,20 @@ h2 {
 
 .second-button {
     font-weight: 500;
-    color:#ec4d4a;
+    color: white;
+    background-color: black;
     text-decoration: none;
-    border: 2px solid #ec4d4a;
+    border: 2px solid black;
     padding: 8px 16px;
     border-radius: 50px;
 }
 
 .second-button:hover {
     font-weight: 500;
-    color: white;
-    background-color: #ec4d4a;
+    color: black;
+    background-color: transparent;
     text-decoration: none;
-    border: 2px solid #ec4d4a;
+    border: 2px solid black;
     padding: 8px 16px;
     border-radius: 50px;
 }
@@ -178,7 +180,7 @@ h2 {
    border-radius: 10px;
 }
 
-input {
+.text-field {
     font-size: 16px;
     padding: 8px 16px;
     border-radius: 4px;
@@ -186,6 +188,24 @@ input {
     border: 2px solid lightgray;
     margin-bottom: 24px;
     width: 366px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.input-button {
+    width: 402px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+form div {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.create-account {
+    text-align: center;
+    margin-top: 20px;
 }
 
 textarea {
@@ -196,6 +216,7 @@ textarea {
     border: 2px solid lightgray;
     margin-bottom: 24px;
     width: 366px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .link {
@@ -207,7 +228,20 @@ textarea {
 .link:hover {
     text-decoration: none;
     font-weight: 700;
-    color: #ec4d4a;
+    color: #3b6ff5;
+}
+
+.contact-icon {
+    font-size: 24px;
+    padding-right: 24px;
+}
+
+.address-info {
+    margin-top: 60px;
+}
+
+.city {
+    margin-bottom: 60px;
 }
 /* middle section ends */
 
@@ -274,7 +308,7 @@ tr th {
 }
 
 .copyright {
-    color:#5cc97b;
+    color: #3b6ff5;
     font-size: 14px;
 
 }
@@ -291,7 +325,7 @@ tr th {
 }
 
 .social-icon:hover {
-    color: #5cc97b;
+    color: #3b6ff5;
     font-size: 24px;
     padding-right: 16px;
 }
@@ -458,7 +492,7 @@ footer {
         padding: 16px;
      }
 
-     input {
+    .text-field {
         width: 378px;
     }
     
@@ -504,7 +538,7 @@ footer {
         padding: 16px;
      }
 
-     input {
+    .text-field {
         width: 214px;
     }
     
