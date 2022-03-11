@@ -260,6 +260,18 @@ textarea {
 .city {
     margin-bottom: 60px;
 }
+
+.content-wrapper {
+    background-color: white;
+    height: 100%;
+    width: 50%;
+}
+
+.bg-test {
+    background-color: black;
+    height: 100%;
+    width: 50%;
+}
 /* middle section ends */
 
 /* Bottom section starts*/
