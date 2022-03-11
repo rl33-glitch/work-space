@@ -263,14 +263,19 @@ textarea {
 
 .content-wrapper {
     background-color: white;
-    height: 100%;
     width: 50%;
+    margin: auto 0;
 }
 
 .bg-test {
     background-color: black;
     height: 100%;
     width: 50%;
+}
+
+.middle-section-wrapper-03 {
+    height: 100vh;
+    background-color: white;
 }
 /* middle section ends */
 
