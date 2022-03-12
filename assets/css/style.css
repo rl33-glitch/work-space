@@ -129,6 +129,13 @@ h1 {
     margin: auto 0;
 }
 
+.middle-section-wrapper-04 {
+    background-color: white;
+    padding: 60px;
+    margin: auto 0;
+    height: 100%;
+}
+
 .flex-container {
     display: flex;
     justify-content: space-between;
@@ -427,6 +434,10 @@ footer {
         padding: 48px;
     }
 
+    .middle-section-wrapper-04 {
+        padding: 48px;
+    }
+
     .middle-section-img img {
         width: 928px;
         margin-bottom: 30px;
@@ -489,12 +500,16 @@ footer {
         padding: 48px;
     }
 
+    .middle-section-wrapper-04 {
+        padding: 48px;
+    }
+
     .middle-section-img {
         justify-content: center;
     }
 
     .margin-content {
-        margin: 40px 0 0 0;
+        margin: 0 20px 0 0;
     }
 
     .middle-section-locations {
@@ -537,6 +552,14 @@ footer {
 
     .locations img {
         width: 416px;
+    }
+
+    .margin-content {
+        margin: 0 0 48px 0;
+    }
+
+    .middle-section-wrapper-04 {
+        display: block;
     }
 
     /*bottom section starts */
@@ -602,8 +625,12 @@ footer {
         padding: 16px;
     }
 
+    .middle-section-wrapper-04 {
+        padding: 24px 16px 32px 16px;
+    }
+
     .margin-content {
-        margin: 0;
+        margin: 0 0 48px 0;
     }
 
     .middle-section-img img {
@@ -705,6 +732,15 @@ footer {
     }
 
     form div {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .margin-content {
+        margin: 0 0 30px 0;
+    }
+
+    .getstated-checkbox {
         display: block;
         margin-bottom: 20px;
     }
