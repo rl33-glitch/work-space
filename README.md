@@ -80,4 +80,41 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 <img width="1433" alt="Screenshot 2022-03-12 at 22 06 00" src="https://user-images.githubusercontent.com/67274642/158036745-1c5fd427-739b-45fc-b41a-ce89b49ad30d.png">
 
+## Technologies Used
 
+- HTML5 - provides the content and structure for the website.
+- CSS - provides the styling.#
+- Balsamiq - used to create the wireframes.
+- Gitpod - used to deploy the website.
+- Github - used to host and edit website.
+
+## Testing
+
+## Deployment
+### To deploy the project
+
+The live link to the **Github** repository can be found here [Workspace github repository]().
+
+### To fork the repository on Github
+
+### To create a local clone of this project
+
+# Credits
+## Content
+
+- The font came from [Google Fonts](https://fonts.google.com/).
+- The colour palate was compiled by [Colorhunt](https://colorhunt.co/).
+- The icons came from [Font Awesome](https://fontawesome.com/.
+- [Balsamiq](https://balsamiq.com/) was used to create the wireframes.
+- [MDN](https://developer.mozilla.org/en-US/) was used as a code resource.
+- [W3 Schools](https://www.w3schools.com/css/) was used as a code resource.
+- [Stackoverflow](https://stackoverflow.com/) was used as a code resource.
+- [Dribbble](https://dribbble.com/) was used as a design inspiration.
+
+## Media
+
+- The website photos came from [Pexels](https://www.pexels.com/), [Freekpik](https://www.freepik.com/), and [Unplash](https://unsplash.com/).
+
+# Acknowledgements
+
+The site was completed as a Portfolio 1 project piece for the **Full Stack Software Developer** diploma at the [Code Institute](https://codeinstitute.net/ie/), and [UCD - University College Dublin](https://www.ucd.ie/).
