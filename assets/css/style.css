@@ -145,6 +145,10 @@ h1 {
     margin-top: 60px;
 }
 
+.locations img {
+    width: 280px;
+}
+
 .locations {
     margin: 0 20px;
     padding: 24px;
@@ -480,6 +484,10 @@ footer {
     .table-2 {
         margin: 0 auto;
     }
+
+    .bottom-section-wrapper {
+        padding: 48px;
+    }
     /*bottom section ends */
 }
 
@@ -522,6 +530,10 @@ footer {
         padding: 32px 16px;
     }
 
+    .margin-content {
+        margin: 0;
+    }
+
     .middle-section-img img {
         width: 448px;
     }
@@ -543,6 +555,16 @@ footer {
         width: 378px;
     }
     /* middle section ends */
+
+    /*bottom section starts */
+    .bottom-section-wrapper {
+        padding: 24px 16px;
+    }
+
+    .bottom-section-content {
+        margin-bottom: 24px;
+    }
+    /*bottom section ends */
 
     /* footer section starts */
     footer {
