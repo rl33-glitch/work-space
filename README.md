@@ -116,6 +116,7 @@ During validation stage two bugs became known, a brief description is presented 
   <img width="1340" alt="Screenshot 2022-03-12 at 23 19 57" src="https://user-images.githubusercontent.com/67274642/158038698-276867af-e83a-4a7b-8987-4a5d162739ec.png">
   It was necessary to go back to the Contact us HTML code and the add space between attributes.
 
+
 ## Deployment
 ### To deploy the project
 
