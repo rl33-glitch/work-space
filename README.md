@@ -90,9 +90,12 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 # Testing
 
-### Bugs
-* Resolved bugs
-  - 
+## Bugs
+### Resolved bugs
+During validation stage two bugs became known, a brief description is presented below:
+- Home page
+<img width="1347" alt="Screenshot 2022-03-12 at 22 52 01" src="https://user-images.githubusercontent.com/67274642/158037987-5036f26a-8506-4d08-8c6d-e0c68c4ee093.png">
+It wqas necessary to go back to the HTML code and the add space between attributes.
 
 ## Deployment
 ### To deploy the project
