@@ -88,7 +88,11 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 - Gitpod - used to deploy the website.
 - Github - used to host and edit website.
 
-## Testing
+# Testing
+
+### Bugs
+* Resolved bugs
+  - 
 
 ## Deployment
 ### To deploy the project
