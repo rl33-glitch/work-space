@@ -91,6 +91,18 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 # Testing
 
 ## Bugs
+The **Workspace** site code has been tested through the [W£C HTML Validator](https://validator.w3.org/), and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the homepage, locations page and contact us page. After a fix and retest, nop errors was found.
+
+The HTML validator results for each page presented below:
+  - Homepage
+  <img width="1369" alt="Screenshot 2022-03-12 at 23 19 16" src="https://user-images.githubusercontent.com/67274642/158038935-9e16fd5e-f217-4e93-904b-ed86588d5035.png">
+  - Locations page
+  <img width="1369" alt="Screenshot 2022-03-12 at 23 19 16" src="https://user-images.githubusercontent.com/67274642/158038935-9e16fd5e-f217-4e93-904b-ed86588d5035.png">
+  - Contact us page
+  <img width="1369" alt="Screenshot 2022-03-12 at 23 19 16" src="https://user-images.githubusercontent.com/67274642/158038935-9e16fd5e-f217-4e93-904b-ed86588d5035.png">
+  - Get started page
+  <img width="1369" alt="Screenshot 2022-03-12 at 23 19 16" src="https://user-images.githubusercontent.com/67274642/158038935-9e16fd5e-f217-4e93-904b-ed86588d5035.png">
+
 ### Resolved bugs
 During validation stage two bugs became known, a brief description is presented below:
 - Home page
