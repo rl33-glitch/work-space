@@ -47,3 +47,9 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 
 ### Footer
+
+- The **footer** provides the main navigation links making it ease for users to navigate through the website and to understand the site map.
+- This section includes social media icons to users be able to find Workspace through Twitter, Instagram, Linkedin, and Facebook.
+
+<img width="1438" alt="Screenshot 2022-03-12 at 21 09 22" src="https://user-images.githubusercontent.com/67274642/158035948-b879caa1-9d93-4107-8ae8-92617ebb9350.png">
+
