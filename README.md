@@ -4,3 +4,11 @@ The world we live in today is vastly different to the one we lived in a few shor
 Welcome to the journey through [Workspace.](https://rl33-glitch.github.io/work-space/index.html)
 
 <img width="975" alt="Screenshot 2022-03-12 at 19 56 10" src="https://user-images.githubusercontent.com/67274642/158033076-58c2eadc-b146-4f22-9f08-76e3bccc3d8e.png">
+
+## Wireframes
+
+The Workspace wireframes was developed using the software [Balsamiq](https://balsamiq.com/). The wireframe provide a view for desktop and mobile devices of the four pages (Home page, Locations, Contact Us, and Get Started).
+
+![Desktop-wireframe](https://user-images.githubusercontent.com/67274642/158033753-cfeed66b-286c-4f16-8f04-9198e3739dba.png)
+
+![Mobile-wireframe](https://user-images.githubusercontent.com/67274642/158033756-649c9c93-83fa-460f-96b3-d7014a276fc5.png)
