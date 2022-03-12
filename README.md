@@ -30,3 +30,17 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 - This section provides the user with a clear information of what the site is and how can it can supports the work from home workers. 
 
 <img width="1440" alt="Screenshot 2022-03-12 at 21 08 26" src="https://user-images.githubusercontent.com/67274642/158035134-cb647f62-ee3a-4500-ba3a-ca30d60e26ca.png">
+
+### Middle section
+
+- This section shows the user important information they need to know about the Workspace and provide a picture of one of the offices location.
+- Also provide the users with a Learn more button that will take the use to the locations page where the use can access information about all the offices locations.
+
+<img width="1438" alt="Screenshot 2022-03-12 at 21 08 42" src="https://user-images.githubusercontent.com/67274642/158035421-44cefa03-f8b5-4297-8730-e2fea72ffb29.png">
+
+
+### How it works
+
+- The **How it works** section provides the information 
+
+### Footer
