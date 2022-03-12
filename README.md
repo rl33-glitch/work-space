@@ -102,6 +102,7 @@ The HTML validator results for each page presented below:
   <img width="1369" alt="Screenshot 2022-03-12 at 23 19 16" src="https://user-images.githubusercontent.com/67274642/158038935-9e16fd5e-f217-4e93-904b-ed86588d5035.png">
   - Get started page
   <img width="1369" alt="Screenshot 2022-03-12 at 23 19 16" src="https://user-images.githubusercontent.com/67274642/158038935-9e16fd5e-f217-4e93-904b-ed86588d5035.png">
+  
 
 ### Resolved bugs
 During validation stage two bugs became known, a brief description is presented below:
