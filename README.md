@@ -18,3 +18,7 @@ The Workspace wireframes was developed using the software [Balsamiq](https://bal
 The Workspace website was developed to be a seamless and intuitive experience. By using a familiar features I intented to provide the customer with a efficient, smooth, and enjoyable experience. I kept consistency through the look and feel and webpages structure across all pages and breakpoints.
 
 ### Navigation
+
+- Featured at the top of the page, the navigation bar shows at the left corner the Workspaces logo that also links to the index.html.
+- The navigation bar also provide the users with links to the remaining pages. The links located in the middle of the navigation bar are How it works, Locations, and Contact Us which link to different pages and sections of the same page.
+- The navigation bar also provide the users with the button "Get Started" that gives the uses the option of log in or create a new account.
