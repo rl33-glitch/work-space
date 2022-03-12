@@ -41,6 +41,9 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 ### How it works
 
-- The **How it works** section provides the information 
+- The **How it works** section provides the information about the two available plans and the benefits of the membership.
+
+<img width="1437" alt="Screenshot 2022-03-12 at 21 09 06" src="https://user-images.githubusercontent.com/67274642/158035763-7e28b952-c413-40b5-bcc2-8b99ef639d54.png">
+
 
 ### Footer
