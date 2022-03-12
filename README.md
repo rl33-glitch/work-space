@@ -22,3 +22,5 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 - Featured at the top of the page, the navigation bar shows at the left corner the Workspaces logo that also links to the index.html.
 - The navigation bar also provide the users with links to the remaining pages. The links located in the middle of the navigation bar are How it works, Locations, and Contact Us which link to different pages and sections of the same page.
 - The navigation bar also provide the users with the button "Get Started" that gives the uses the option of log in or create a new account.
+
+<img width="1440" alt="Screenshot 2022-03-12 at 20 59 11" src="https://user-images.githubusercontent.com/67274642/158034834-ef8f2767-7c35-4a7a-b3bf-9f01c75eb6cb.png">
