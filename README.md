@@ -49,7 +49,35 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 ### Footer
 
 - The **footer** provides the main navigation links making it ease for users to navigate through the website and to understand the site map.
-- This section includes social media icons to users be able to find Workspace through Twitter, Instagram, Linkedin, and Facebook.
+- This section includes social media icons to users be able to find Workspace through Twitter, Instagram, Linkedin, and Facebook. To enhance the UX the links open in other tabs.
+- The social media presence will help the user with news about Workspace, tips of how to improve work productivity and will also encourage them to connect with **Workspace**.
+- To help the user with navigation on all devices the links on the **footer** will take the user back to the top of the page.
 
 <img width="1438" alt="Screenshot 2022-03-12 at 21 09 22" src="https://user-images.githubusercontent.com/67274642/158035948-b879caa1-9d93-4107-8ae8-92617ebb9350.png">
+
+### Locations page
+
+- The **Locations** page presents the users all the **Workspace** locations and provide more information about each one.
+
+![Locations](https://user-images.githubusercontent.com/67274642/158036733-939ea797-384f-4bd5-ae7c-cc874ca224c0.png)
+
+
+### Contact Us page
+
+- The **Contact Us** page encourages users to get in touch by providing the users with the contact form. It also gives the user the phone number, email address and street address where the Workspace headquarters is located.
+- The contact form has 3 inputs, name, email and textarea.
+
+![Contact us](https://user-images.githubusercontent.com/67274642/158036738-7624dd54-ff9b-40a2-ba39-93daa33bdc7e.png)
+
+
+### Get Started page
+
+- The **Get Started** page gives the user the option to log in and to create a new account.
+- The log in form collect the user email and password information.
+- The Log in form also gives the users the funtionality *Remember me* and *Forgot password*.
+- The sign up form is valuable to the user as it gives them the ability to sign up for free to the **Workspace**.
+
+
+<img width="1433" alt="Screenshot 2022-03-12 at 22 06 00" src="https://user-images.githubusercontent.com/67274642/158036745-1c5fd427-739b-45fc-b41a-ce89b49ad30d.png">
+
 
