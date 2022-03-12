@@ -24,3 +24,9 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 - The navigation bar also provide the users with the button "Get Started" that gives the uses the option of log in or create a new account.
 
 <img width="1440" alt="Screenshot 2022-03-12 at 20 59 11" src="https://user-images.githubusercontent.com/67274642/158034834-ef8f2767-7c35-4a7a-b3bf-9f01c75eb6cb.png">
+
+### The header
+
+- This section provides the user with a clear information of what the site is and how can it can supports the work from home workers. 
+
+<img width="1440" alt="Screenshot 2022-03-12 at 21 08 26" src="https://user-images.githubusercontent.com/67274642/158035134-cb647f62-ee3a-4500-ba3a-ca30d60e26ca.png">
