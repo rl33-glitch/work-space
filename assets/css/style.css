@@ -398,6 +398,7 @@ footer {
 
 /* for medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+    /* top section starts */
     .top-section-content {
         margin: auto 0;
     }
@@ -405,7 +406,9 @@ footer {
     h1 {
         font-size: 48px;
     }
+    /* top section ends */
 
+    /* middle section starts */
     .middle-section-img img {
         width: 600px;
     }
@@ -418,6 +421,10 @@ footer {
         font-size: 40px;
     }
 
+    video {
+        width: 600px;
+    }
+    /* top section ends */
 }
 
 /* for medium screen sizes from 1024px wide and down */
@@ -458,6 +465,11 @@ footer {
 
     .locations img {
         width: 260px;
+    }
+
+    video {
+        width: 928px;
+        margin-bottom: 30px;
     }
     /* middle section ends */
 
@@ -531,11 +543,29 @@ footer {
     .content-wrapper {
         width: 100%;
     }
+
+    video {
+        width: 854px;
+    }
      /* middle section ends*/
 }
 
 /* for medium screen sizes from 768px wide and down */
 @media screen and (max-width: 768px) {
+    /* top section starts */
+    header {
+        display: block;
+        padding: 24px;
+        height: 100%;
+    }
+
+    .nav-links-wrapper {
+        display: block;
+        margin: 24px 0;
+    }
+    /* top section ends */
+
+    /* middle section starts */
     .middle-section-img img {
         width: 672px;
     }
@@ -562,6 +592,10 @@ footer {
         display: block;
     }
 
+    video {
+        width: 672px;
+    }
+
     /*bottom section starts */
     .bottom-section-table {
         display: block;
@@ -580,18 +614,19 @@ footer {
         padding: 48px;
     }
     /*bottom section ends */
+
+    /* footer section starts */
+    .footer-section-links {
+        display: block;
+    }
+    /* footer section ends */
 }
 
 /* for medium screen sizes from 480px wide and down */
 @media screen and (max-width: 480px) {
     /* navbar starts */
-    .nav-links-wrapper {
-        display: block;
-    }
-
     header {
         display: block;
-        justify-content: space-between;
         padding: 16px;
         height: 100%;
     }
@@ -655,6 +690,10 @@ footer {
     }
 
     .content-center {
+        width: 448px;
+    }
+
+    video {
         width: 448px;
     }
     /* middle section ends */
@@ -743,6 +782,11 @@ footer {
     .getstated-checkbox {
         display: block;
         margin-bottom: 20px;
+    }
+
+    video {
+        width: 288px;
+        margin-bottom: 16px;
     }
     /* middle section ends */
 
