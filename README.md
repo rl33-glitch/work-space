@@ -41,11 +41,11 @@ The Workspace wireframes was developed using the software [Balsamiq](https://bal
 
 # Features
 
-The Workspace website was developed to be a seamless and intuitive experience. By using a familiar features I intented to provide the customer with a efficient, smooth, and enjoyable experience. I kept consistency through the look and feel and webpages structure across all pages and breakpoints.
+The Workspace website was developed to be a seamless and intuitive experience. By using  familiar features I intented to provide the customer with a efficient, smooth, and enjoyable experience. I kept consistency through the look and feel of the webpages structure across all pages and breakpoints.
 
 ### Navigation
 
-- Featured at the top of the page, the navigation bar shows at the left corner the Workspaces logo that also links to the index.html.
+- Featured at the top of the page, the navigation bar shows at the left corner of the Workspaces logo that also links to the index.html page.
 - The navigation bar also provide the users with links to the remaining pages. The links located in the middle of the navigation bar are How it works, Locations, and Contact Us which link to different pages and sections of the same page.
 - The navigation bar also provide the users with the button "Get Started" that gives the uses the option of log in or create a new account.
 
@@ -55,7 +55,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 ### The header
 
-- This section provides the user with a clear information of what the site is and how can it can supports the work from home workers. 
+- This section provides the user with  clear information of what the site is and how can it can supports the work from home workers. 
 
 <img width="1440" alt="Screenshot 2022-03-12 at 21 08 26" src="https://user-images.githubusercontent.com/67274642/158035134-cb647f62-ee3a-4500-ba3a-ca30d60e26ca.png">
 
@@ -63,8 +63,8 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 ### Middle section
 
-- This section shows the user important information they need to know about the Workspace and provide a picture of one of the offices location.
-- Also provide the users with a Learn more button that will take the use to the locations page where the use can access information about all the offices locations.
+- This section shows the user important information they need to know about the Workspace and provides a picture of one of the office locations.
+- Also provides the users with a Learn more button that will take the use to the locations page where the user can access information about all the office locations.
 
 <img width="1438" alt="Screenshot 2022-03-12 at 21 08 42" src="https://user-images.githubusercontent.com/67274642/158035421-44cefa03-f8b5-4297-8730-e2fea72ffb29.png">
 
@@ -80,9 +80,11 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 ### Footer
 
-- The **footer** provides the main navigation links making it ease for users to navigate through the website and to understand the site map.
-- This section includes social media icons to users be able to find Workspace through Twitter, Instagram, Linkedin, and Facebook. To enhance the UX the links open in other tabs.
-- The social media presence will help the user with news about Workspace, tips of how to improve work productivity and will also encourage them to connect with **Workspace**.
+- The **footer** provides the main navigation links making it easy for users to navigate through the website and to understand the site map.
+- This section includes social media icons so users are able to find Workspace through Twitter, Instagram, Linkedin, and Facebook. 
+- The social media presence will help the user with news about Workspace, tips of how to improve work productivity and will also encourage them to connect with   Workspace.
+
+**Workspace**
 - To help the user with navigation on all devices the links on the **footer** will take the user back to the top of the page.
 
 <img width="1438" alt="Screenshot 2022-03-12 at 21 09 22" src="https://user-images.githubusercontent.com/67274642/158035948-b879caa1-9d93-4107-8ae8-92617ebb9350.png">
@@ -100,7 +102,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 ### Contact Us page
 
 - The **Contact Us** page encourages users to get in touch by providing the users with the contact form. It also gives the user the phone number, email address and street address where the Workspace headquarters is located.
-- The contact form has 3 inputs, name, email and textarea.
+- The contact form has 3 inputs, name, email and text area.
 
 ![Contact us](https://user-images.githubusercontent.com/67274642/158036738-7624dd54-ff9b-40a2-ba39-93daa33bdc7e.png)
 
@@ -109,8 +111,8 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 ### Get Started page
 
 - The **Get Started** page gives the user the option to log in and to create a new account.
-- The log in form collect the user email and password information.
-- The Log in form also gives the users the funtionality *Remember me* and *Forgot password*.
+- The log in form collects the users email and password information.
+- The Log in form also gives the user the funtionality *Remember me* and *Forgot password*.
 - The sign up form is valuable to the user as it gives them the ability to sign up for free to the **Workspace**.
 
 
@@ -130,7 +132,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 # Testing
 
-The **Workspace** site code has been tested through the [W3C HTML Validator](https://validator.w3.org/), and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the homepage, locations page and contact us page. After a fix and retest, nop errors was found.
+The **Workspace** site code has been tested through the [W3C HTML Validator](https://validator.w3.org/), and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the homepage, locations page and contact us page. After a fix and retest, no errors were found.
 
 The HTML validator results for each page presented below:
   - Homepage
@@ -148,17 +150,17 @@ The CSS validator results presented below:
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ### Acessibility
-I confirmed that the colors and fonts chosen are easy to read and accessible by running manually test lighthouse in [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
+I confirmed that the colors and fonts chosen are easy to read and accessible by manually running a  test lighthouse in [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
 - Lighthouse
   The site was also tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
-    - **Performance** - How the page performs whilst loading.
+    - **Performance** - How the page performs while loading.
     - **Accessibility** - Is the site accessible for all users and how can it be improved.
     - **Best Practices** - Site conforms to industry best practices.
     - **SEO** - Search engine optimisation. Is the site optimised for search engine result rankings.
 
   The **Workspace** results home page are presented below:
   <img width="642" alt="Screenshot 2022-03-13 at 00 02 39" src="https://user-images.githubusercontent.com/67274642/158039618-9fff50b0-b27b-45c9-9c98-8d213cc6aad2.png">
-  The test shows that the site is slow to load, mainly due to the images sizes. All the images will be need to be compressed before adding to the repository. 
+  The test shows that the site is slow to load, mainly due to the images sizes. All the images will be need to be compressed before added to the repository. 
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
@@ -205,7 +207,7 @@ The live link to the **Github** repository can be found here [Workspace github r
 - [MDN](https://developer.mozilla.org/en-US/) was used as a code resource.
 - [W3 Schools](https://www.w3schools.com/css/) was used as a code resource.
 - [Stackoverflow](https://stackoverflow.com/) was used as a code resource.
-- [Dribbble](https://dribbble.com/) was used as a design inspiration.
+- [Dribbble](https://dribbble.com/) was used for design inspiration.
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
