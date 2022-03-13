@@ -7,12 +7,28 @@ Welcome to the journey through [Workspace.](https://rl33-glitch.github.io/work-s
 
 # Content
 - [Wireframes](https://github.com/rl33-glitch/work-space/blob/main/README.md#wireframes)
-- [Features]()
-  - [Navigation]()
-  - [The header]()
-  - [Middle section]()
-  - [How it works]()
-  - [Footer]()
+- [Features](https://github.com/rl33-glitch/work-space/blob/main/README.md#features)
+  - [Navigation](https://github.com/rl33-glitch/work-space/blob/main/README.md#navigation)
+  - [The header](https://github.com/rl33-glitch/work-space/blob/main/README.md#the-header)
+  - [Middle section](https://github.com/rl33-glitch/work-space/blob/main/README.md#middle-section)
+  - [How it works](https://github.com/rl33-glitch/work-space/blob/main/README.md#how-it-works)
+  - [Footer](https://github.com/rl33-glitch/work-space/blob/main/README.md#footer)
+  - [Locations page](https://github.com/rl33-glitch/work-space/blob/main/README.md#locations-page)
+  - [Contact Us page](https://github.com/rl33-glitch/work-space/blob/main/README.md#contact-us-page)
+  - [Get Started page](https://github.com/rl33-glitch/work-space/blob/main/README.md#get-started-page)
+- [Technologies Used](https://github.com/rl33-glitch/work-space/blob/main/README.md#technologies-used)
+- [Testing](https://github.com/rl33-glitch/work-space/blob/main/README.md#testing)
+  - [Acessibility](https://github.com/rl33-glitch/work-space/blob/main/README.md#acessibility)
+  - [Browser Compatibility](https://github.com/rl33-glitch/work-space/blob/main/README.md#browser-compatibility)
+- [Bugs](https://github.com/rl33-glitch/work-space/blob/main/README.md#bugs)
+  - [Resolved bugs](https://github.com/rl33-glitch/work-space/blob/main/README.md#resolved-bugs)
+- [Deployment](https://github.com/rl33-glitch/work-space/blob/main/README.md#deployment)
+  - [To deploy the project](https://github.com/rl33-glitch/work-space/blob/main/README.md#to-deploy-the-project)
+- [Credits](https://github.com/rl33-glitch/work-space/blob/main/README.md#credits)
+  - [Content](https://github.com/rl33-glitch/work-space/blob/main/README.md#content-1)
+  - [Media](https://github.com/rl33-glitch/work-space/blob/main/README.md#media)
+- [Acknowledgements](https://github.com/rl33-glitch/work-space/blob/main/README.md#acknowledgements)
+
 # Wireframes
 
 The Workspace wireframes was developed using the software [Balsamiq](https://balsamiq.com/). The wireframe provide a view for desktop and mobile devices of the four pages (Home page, Locations, Contact Us, and Get Started).
@@ -102,7 +118,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
-## Technologies Used
+# Technologies Used
 
 - HTML5 - provides the content and structure for the website.
 - CSS - provides the styling.#
@@ -151,7 +167,7 @@ The **Workspace** site was tested with no visible issues for the user on the fol
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
-## Bugs
+# Bugs
 
 ### Resolved bugs
 During validation stage two bugs became known, a brief description is presented below:
@@ -167,7 +183,7 @@ During validation stage two bugs became known, a brief description is presented 
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
-## Deployment
+# Deployment
 ### To deploy the project
 The site was deployed to GitHub pages. The steps to deploy the site are presented below:
 1. In the GitHub repository, navigate to the **settings** tab.
