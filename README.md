@@ -90,7 +90,6 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 # Testing
 
-## Bugs
 The **Workspace** site code has been tested through the [W£C HTML Validator](https://validator.w3.org/), and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the homepage, locations page and contact us page. After a fix and retest, nop errors was found.
 
 The HTML validator results for each page presented below:
@@ -106,6 +105,23 @@ The HTML validator results for each page presented below:
 The CSS validator results presented below:
 <img width="1417" alt="Screenshot 2022-03-12 at 23 48 04" src="https://user-images.githubusercontent.com/67274642/158039123-b6b16bbb-7495-4779-a3cc-ffc133e4f485.png">
 
+### Acessibility
+I confirmed that the colors and fonts chosen are easy to read and accessible by running manually test lighthouse in [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
+- Lighthouse
+  The site was also tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
+    - **Performance** - How the page performs whilst loading.
+    - **Accessibility** - Is the site accessible for all users and how can it be improved.
+    - **Best Practices** - Site conforms to industry best practices.
+    - **SEO** - Search engine optimisation. Is the site optimised for search engine result rankings.
+
+  The **Workspace** results home page are presented below:
+  <img width="642" alt="Screenshot 2022-03-13 at 00 02 39" src="https://user-images.githubusercontent.com/67274642/158039618-9fff50b0-b27b-45c9-9c98-8d213cc6aad2.png">
+  The test shows that the site is slow to load, mainly due to the images sizes. All the images will be need to be compressed before adding to the repository. 
+
+### Browser Compatibility
+The **Workspace** site was tested with no visible issues for the user on the following browsers: Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+
+## Bugs
 
 ### Resolved bugs
 During validation stage two bugs became known, a brief description is presented below:
