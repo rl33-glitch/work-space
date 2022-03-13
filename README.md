@@ -7,6 +7,7 @@ Welcome to the journey through [Workspace.](https://rl33-glitch.github.io/work-s
 
 # Content
 - [Wireframes](https://github.com/rl33-glitch/work-space/blob/main/README.md#wireframes)
+- [User stories](https://github.com/rl33-glitch/work-space/blob/main/README.md#Userstories)
 - [Features](https://github.com/rl33-glitch/work-space/blob/main/README.md#features)
   - [Navigation](https://github.com/rl33-glitch/work-space/blob/main/README.md#navigation)
   - [The header](https://github.com/rl33-glitch/work-space/blob/main/README.md#the-header)
@@ -28,6 +29,18 @@ Welcome to the journey through [Workspace.](https://rl33-glitch.github.io/work-s
   - [Content](https://github.com/rl33-glitch/work-space/blob/main/README.md#content-1)
   - [Media](https://github.com/rl33-glitch/work-space/blob/main/README.md#media)
 - [Acknowledgements](https://github.com/rl33-glitch/work-space/blob/main/README.md#acknowledgements)
+# User stories
+- As a user i want to understand the site purpose and function in a very short amount of time.
+
+- As a user i want a clear and simple route to making a account.
+
+- As a user i want to see the location of the offices.
+
+- As a user i want access to the companys social media pages.
+
+- As a user i want to see the benefits of using the service.
+
+- As a user i want to see the office space before commiting.
 
 # Wireframes
 
