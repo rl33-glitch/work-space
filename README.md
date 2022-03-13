@@ -6,8 +6,8 @@ Welcome to the journey through [Workspace.](https://rl33-glitch.github.io/work-s
 <img width="975" alt="Screenshot 2022-03-12 at 19 56 10" src="https://user-images.githubusercontent.com/67274642/158033076-58c2eadc-b146-4f22-9f08-76e3bccc3d8e.png">
 
 # Content
-- [Wireframes](https://github.com/rl33-glitch/work-space/blob/main/README.md#wireframes)
 - [User stories](https://github.com/rl33-glitch/work-space/blob/main/README.md#Userstories)
+- [Wireframes](https://github.com/rl33-glitch/work-space/blob/main/README.md#wireframes)
 - [Features](https://github.com/rl33-glitch/work-space/blob/main/README.md#features)
   - [Navigation](https://github.com/rl33-glitch/work-space/blob/main/README.md#navigation)
   - [The header](https://github.com/rl33-glitch/work-space/blob/main/README.md#the-header)
@@ -195,7 +195,10 @@ During validation stage two bugs became known, a brief description is presented 
 - Contact us page
   <img width="1340" alt="Screenshot 2022-03-12 at 23 19 57" src="https://user-images.githubusercontent.com/67274642/158038698-276867af-e83a-4a7b-8987-4a5d162739ec.png">
   It was necessary to go back to the Contact us HTML code and the add space between attributes.
-
+- Video
+ 
+  The video was not loading while the site was in production. This was solved by copying the download link on github and adding it to the video source.
+  
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 # Deployment
