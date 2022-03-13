@@ -5,7 +5,15 @@ Welcome to the journey through [Workspace.](https://rl33-glitch.github.io/work-s
 
 <img width="975" alt="Screenshot 2022-03-12 at 19 56 10" src="https://user-images.githubusercontent.com/67274642/158033076-58c2eadc-b146-4f22-9f08-76e3bccc3d8e.png">
 
-## Wireframes
+# Content
+- [Wireframes](https://github.com/rl33-glitch/work-space/blob/main/README.md#wireframes)
+- [Features]()
+  - [Navigation]()
+  - [The header]()
+  - [Middle section]()
+  - [How it works]()
+  - [Footer]()
+# Wireframes
 
 The Workspace wireframes was developed using the software [Balsamiq](https://balsamiq.com/). The wireframe provide a view for desktop and mobile devices of the four pages (Home page, Locations, Contact Us, and Get Started).
 
@@ -15,7 +23,7 @@ The Workspace wireframes was developed using the software [Balsamiq](https://bal
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
-## Features
+# Features
 
 The Workspace website was developed to be a seamless and intuitive experience. By using a familiar features I intented to provide the customer with a efficient, smooth, and enjoyable experience. I kept consistency through the look and feel and webpages structure across all pages and breakpoints.
 
