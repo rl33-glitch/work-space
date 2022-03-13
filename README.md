@@ -32,19 +32,28 @@ Welcome to the journey through [Workspace.](https://rl33-glitch.github.io/work-s
 # User stories
 - As a user i want to understand the site purpose and function in a very short amount of time.
 
+  - The purpose of the site is clear from the homepage and the navigation is at the top of every page.
+  - The how it works section is above the footer at the bottom of the page with a link in the navbar at the top.
 - As a user i want a clear and simple route to making a account.
 
+  - The get started button takes you to a form to start the account creation process.
 - As a user i want to see the location of the offices.
-
+ 
+  - The locations button is the navbar at the top of the page and leads to the office locations.
 - As a user i want access to the companys social media pages.
-
+ 
+  - All social media links are in the footer.
 - As a user i want to see the benefits of using the service.
-
+ 
+  - In the middle section of the homepage there is a video showing a workgroup with a learn more button and a breif description of the quality provided.
 - As a user i want to see the office space before commiting.
+ 
+  - Although not yet developed the learn more button will show the standard of a typical office rental space.
+
 
 # Wireframes
 
-The Workspace wireframes was developed using the software [Balsamiq](https://balsamiq.com/). The wireframe provide a view for desktop and mobile devices of the four pages (Home page, Locations, Contact Us, and Get Started).
+The Workspace wireframes was developed using the software [Balsamiq](https://balsamiq.com/). The wireframe provides a view for desktop and mobile devices of the four pages (Home page, Locations, Contact Us, and Get Started).
 
 ![Desktop-wireframe](https://user-images.githubusercontent.com/67274642/158033753-cfeed66b-286c-4f16-8f04-9198e3739dba.png)
 
