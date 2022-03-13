@@ -90,7 +90,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 # Testing
 
-The **Workspace** site code has been tested through the [W£C HTML Validator](https://validator.w3.org/), and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the homepage, locations page and contact us page. After a fix and retest, nop errors was found.
+The **Workspace** site code has been tested through the [W3C HTML Validator](https://validator.w3.org/), and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). Minor errors were found on the homepage, locations page and contact us page. After a fix and retest, nop errors was found.
 
 The HTML validator results for each page presented below:
   - Homepage
@@ -138,12 +138,14 @@ During validation stage two bugs became known, a brief description is presented 
 
 ## Deployment
 ### To deploy the project
+The site was deployed to GitHub pages. The steps to deploy the site are presented below:
+1. In the GitHub repository, navigate to the **settings** tab.
+2. Once in settings, navigate to the **pages** tab on the left menu.
+3. Under **source**, select the branch to **main**, then click **save**.
+4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link to the **Github** repository can be found here [Workspace github repository]().
 
-### To fork the repository on Github
-
-### To create a local clone of this project
 
 # Credits
 ## Content
