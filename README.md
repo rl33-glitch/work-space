@@ -27,11 +27,15 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 <img width="1440" alt="Screenshot 2022-03-12 at 20 59 11" src="https://user-images.githubusercontent.com/67274642/158034834-ef8f2767-7c35-4a7a-b3bf-9f01c75eb6cb.png">
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
+
 ### The header
 
 - This section provides the user with a clear information of what the site is and how can it can supports the work from home workers. 
 
 <img width="1440" alt="Screenshot 2022-03-12 at 21 08 26" src="https://user-images.githubusercontent.com/67274642/158035134-cb647f62-ee3a-4500-ba3a-ca30d60e26ca.png">
+
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ### Middle section
 
@@ -40,6 +44,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 <img width="1438" alt="Screenshot 2022-03-12 at 21 08 42" src="https://user-images.githubusercontent.com/67274642/158035421-44cefa03-f8b5-4297-8730-e2fea72ffb29.png">
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ### How it works
 
@@ -47,6 +52,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 <img width="1437" alt="Screenshot 2022-03-12 at 21 09 06" src="https://user-images.githubusercontent.com/67274642/158035763-7e28b952-c413-40b5-bcc2-8b99ef639d54.png">
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ### Footer
 
@@ -57,12 +63,15 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 <img width="1438" alt="Screenshot 2022-03-12 at 21 09 22" src="https://user-images.githubusercontent.com/67274642/158035948-b879caa1-9d93-4107-8ae8-92617ebb9350.png">
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
+
 ### Locations page
 
 - The **Locations** page presents the users all the **Workspace** locations and provide more information about each one.
 
 ![Locations](https://user-images.githubusercontent.com/67274642/158036733-939ea797-384f-4bd5-ae7c-cc874ca224c0.png)
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ### Contact Us page
 
@@ -71,6 +80,7 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 ![Contact us](https://user-images.githubusercontent.com/67274642/158036738-7624dd54-ff9b-40a2-ba39-93daa33bdc7e.png)
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ### Get Started page
 
@@ -82,6 +92,8 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 <img width="1433" alt="Screenshot 2022-03-12 at 22 06 00" src="https://user-images.githubusercontent.com/67274642/158036745-1c5fd427-739b-45fc-b41a-ce89b49ad30d.png">
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
+
 ## Technologies Used
 
 - HTML5 - provides the content and structure for the website.
@@ -89,6 +101,8 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 - Balsamiq - used to create the wireframes.
 - Gitpod - used to deploy the website.
 - Github - used to host and edit website.
+
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 # Testing
 
@@ -107,6 +121,8 @@ The HTML validator results for each page presented below:
 The CSS validator results presented below:
 <img width="1417" alt="Screenshot 2022-03-12 at 23 48 04" src="https://user-images.githubusercontent.com/67274642/158039123-b6b16bbb-7495-4779-a3cc-ffc133e4f485.png">
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
+
 ### Acessibility
 I confirmed that the colors and fonts chosen are easy to read and accessible by running manually test lighthouse in [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/).
 - Lighthouse
@@ -120,8 +136,12 @@ I confirmed that the colors and fonts chosen are easy to read and accessible by 
   <img width="642" alt="Screenshot 2022-03-13 at 00 02 39" src="https://user-images.githubusercontent.com/67274642/158039618-9fff50b0-b27b-45c9-9c98-8d213cc6aad2.png">
   The test shows that the site is slow to load, mainly due to the images sizes. All the images will be need to be compressed before adding to the repository. 
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
+
 ### Browser Compatibility
 The **Workspace** site was tested with no visible issues for the user on the following browsers: Google Chrome, Microsoft Edge, Safari and Mozilla Firefox. Appearance, functionality and responsiveness were consistent throughout for a range of device sizes and browsers.
+
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ## Bugs
 
@@ -137,6 +157,7 @@ During validation stage two bugs became known, a brief description is presented 
   <img width="1340" alt="Screenshot 2022-03-12 at 23 19 57" src="https://user-images.githubusercontent.com/67274642/158038698-276867af-e83a-4a7b-8987-4a5d162739ec.png">
   It was necessary to go back to the Contact us HTML code and the add space between attributes.
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 ## Deployment
 ### To deploy the project
@@ -148,6 +169,7 @@ The site was deployed to GitHub pages. The steps to deploy the site are presente
 
 The live link to the **Github** repository can be found here [Workspace github repository]().
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
 # Credits
 ## Content
@@ -161,6 +183,8 @@ The live link to the **Github** repository can be found here [Workspace github r
 - [Stackoverflow](https://stackoverflow.com/) was used as a code resource.
 - [Dribbble](https://dribbble.com/) was used as a design inspiration.
 
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
+
 ## Media
 
 - The website photos came from [Pexels](https://www.pexels.com/), [Freekpik](https://www.freepik.com/), and [Unplash](https://unsplash.com/).
@@ -168,3 +192,5 @@ The live link to the **Github** repository can be found here [Workspace github r
 # Acknowledgements
 
 The site was completed as a Portfolio 1 project piece for the **Full Stack Software Developer** diploma at the [Code Institute](https://codeinstitute.net/ie/), and [UCD - University College Dublin](https://www.ucd.ie/).
+
+[Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
