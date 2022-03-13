@@ -191,7 +191,7 @@ The site was deployed to GitHub pages. The steps to deploy the site are presente
 3. Under **source**, select the branch to **main**, then click **save**.
 4. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link to the **Github** repository can be found here [Workspace github repository]().
+The live link to the **Github** repository can be found here [Workspace github repository](https://github.com/rl33-glitch/work-spac).
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
