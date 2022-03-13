@@ -85,10 +85,12 @@ The Workspace website was developed to be a seamless and intuitive experience. B
 
 ### Middle section
 
-- This section shows the user important information they need to know about the Workspace and provides a picture of one of the office locations.
+- This section shows the user important information they need to know about the Workspace and provides a video of one of the office locations.
 - Also provides the users with a Learn more button that will take the use to the locations page where the user can access information about all the office locations.
 
-<img width="1438" alt="Screenshot 2022-03-12 at 21 08 42" src="https://user-images.githubusercontent.com/67274642/158035421-44cefa03-f8b5-4297-8730-e2fea72ffb29.png">
+<img width="1440" alt="Screenshot 2022-03-13 at 17 23 51" src="https://user-images.githubusercontent.com/67274642/158071777-726ab2ee-69fd-49c1-a5e6-e15b9e1a1af4.png">
+
+
 
 [Back to top](https://github.com/rl33-glitch/work-space/blob/main/README.md#work-space)
 
